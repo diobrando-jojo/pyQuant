@@ -33,6 +33,7 @@ Download from ( [FTP](ftp://10.23.0.2/Tools)) ([网盘](https://pan.baidu.com/s/
 ## MySQL
 
 1. [MariaDB](../Database/readme.md)
+2. [MySQL](https://github.com/diobrando-jojo/SQL)
        
 
 ## Machine Learning
